@@ -72,4 +72,3 @@ Put each dataset into separate overlays that can be turned on and off independen
 Add layer controls to your map.
 
 
-![image](https://user-images.githubusercontent.com/111699427/222936306-75733de4-b509-4071-aa7c-d9b354ab86dd.png)
